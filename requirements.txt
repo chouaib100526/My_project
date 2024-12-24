@@ -1,9 +1,2 @@
-matplotlib
-seaborn
-scikit-learn
-scikit-image
-numpy
-opencv-python-headless
-streamlit
-ultralytics
-opencv-python
+sphinx
+sphinx-rtd-theme
