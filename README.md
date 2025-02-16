@@ -9,3 +9,7 @@ The YOLOv8 (You Only Look Once version 8) model is a state-of-the-art deep learn
 # matrice de confusion 
 
 ![PHOTO-2024-11-15-15-20-59](https://github.com/user-attachments/assets/494e5988-1b2a-4b27-beaa-c38160ab0e3d)
+
+
+
+
