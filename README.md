@@ -6,7 +6,7 @@ The SVM (Support Vector Machine) model is a supervised learning algorithm used f
 
 The YOLOv8 (You Only Look Once version 8) model is a state-of-the-art deep learning algorithm used for real-time object detection, capable of detecting and classifying objects in images and videos. In your application, it is stored in the models/best.pt file, likely as a trained PyTorch model ready for inference.
 
-# matrice de confusion 
+# confusion matrix
 
 ![PHOTO-2024-11-15-15-20-59](https://github.com/user-attachments/assets/494e5988-1b2a-4b27-beaa-c38160ab0e3d)
 
