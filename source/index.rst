@@ -2,9 +2,13 @@ Parking Space Recognition System
 ================================
 
 **Project for 4th Year Students**  
+
 **Year 2024-2025**  
-**Bellmir & Chegdati**  
+
+**Chegdati & Bellmir*  
+
 **Modélisation et Simulation en IA**  
+
 
 Supervised by:  
 **Mr. Tawfik Masrour**
@@ -137,13 +141,17 @@ Key Modules
 
    **Comparison Table**:
    +-----------------------+-------------------+-------------------+
-   | Feature               | SVM               | YOLOv8            |
-   +-----------------------+-------------------+-------------------+
-   | Model Type            | Classifier        | Object Detector   |
-   | Accuracy (Test Data)  | ~85%              | ~95%              |
-   | Real-time Capability  | Limited           | Excellent         |
-   | Implementation Effort | Medium            | High              |
-   +-----------------------+-------------------+-------------------+
+  | Feature               | SVM               | YOLOv8            |
+  +=======================+===================+===================+
+  | Model Type            | Classifier        | Object Detector   |
+  +-----------------------+-------------------+-------------------+
+  | Accuracy (Test Data)  | ~85%              | ~95%              |
+  +-----------------------+-------------------+-------------------+
+  | Real-time Capability  | Limited           | Excellent         |
+  +-----------------------+-------------------+-------------------+
+  | Implementation Effort | Medium            | High              |
+  +-----------------------+-------------------+-------------------+
+
 
    **Conclusion**:
    - YOLOv8 is better for real-time applications with high accuracy requirements, while SVM is suitable for smaller datasets and simpler setups.
