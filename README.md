@@ -20,7 +20,7 @@ https://drive.google.com/drive/u/0/folders/1zGRdLYSStzMzd-wptRXYdiY9wTpTjORi
 
 # ReadTheDocs 
 
-https://parking-recognition-system-2.readthedocs.io/en/latest/
+[https://parking-recognition-system-2.readthedocs.io/en/latest/](https://my-project-chouaib.readthedocs.io/en/latest/)
 
 # Project Report 
 https://acrobat.adobe.com/id/urn:aaid:sc:eu:183ccef1-418f-464a-ad53-d241eb26c243?viewer%21megaVerb=group-discover
